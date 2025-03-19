@@ -10,12 +10,11 @@ pkg update
 
 ➡️ pip install requests
 
-➡️ git clone https://github.com/arjunrajp/toxicIpHacking
+➡️ https://github.com/arjunrajp/ExeAffan/tree/main
+➡️ ls
+
+➡️ cd ExeAffan
 
 ➡️ ls
 
-➡️ cd toxicIpHacking
-
-➡️ ls
-
-➡️ python IPHackingtoxic.py
+➡️ python ExeAffan.py
